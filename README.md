@@ -1,10 +1,11 @@
-<h1 align="center">Welcome to shcli 👋</h1>
+<h1 align="center">Welcome to SiteHost-CLI 👋</h1>
 
-> Fully featured SiteHost console tool with autocomplete and advanced features. Designed to speed up common operations such as provisioning a server, viewing and changing DNS records and debugging customer issues. 
+> Fully featured unofficial SiteHost console tool with autocomplete and advanced features. Designed to speed up common operations and give you access to all the features provided by SiteHost under the hood. 
 
 ![Demonstration Gif](assets/shcli-prov.gif)
 
-### **NOTE** This is in progress.
+**NOTE:** This tool is in development. 
+**NOTE:** This tool is unofficial, please don't ask SiteHost for support - post it in the GitHub issues. 
 
 ## Install
 
